@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+#include <ctime>
 long long fibonacci(long long x);
 
 int main(){
